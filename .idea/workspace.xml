@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a36c9c62-c9a3-4611-bd08-0ffdff1b5856" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/container/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/display/Display.java" afterDir="false" />
+    <list default="true" id="a36c9c62-c9a3-4611-bd08-0ffdff1b5856" name="Changes" comment="Containers defined">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/animal/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/animal/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/animal/Mammal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +33,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -80,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658135253751</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Containers defined">
+      <created>1658137414243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658137414243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Containers defined" />
+    <option name="LAST_COMMIT_MESSAGE" value="Containers defined" />
   </component>
 </project>
